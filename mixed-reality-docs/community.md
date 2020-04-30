@@ -21,7 +21,7 @@ Microsoft では、開発者、プラットフォーム、およびエコシス�
 
 |コミュニティ名  |リンク  |説明  |
 |---------|---------|---------|
-|**HoloDevelopers の余裕期間**|[ここに参加](https://aka.ms/holodevelopers)|HoloDevelopers の余裕は、HoloLens を探求する開発者が相互に理解し、friendships を形成し、ビルドの信頼を構築し、相互に支援を得るための場所として最初に作成されました。  この記事は活発コミュニティに拡張されていますが、それに焦点を絞っていますが、このような会話によって、多くのプラットフォーム、デバイス、および企業にわたる mixed reality の範囲がカバーされています。|
+|**HoloDevelopers Slack**|[ここに参加](https://aka.ms/holodevelopers)|HoloDevelopers の余裕は、HoloLens を探求する開発者が相互に理解し、friendships を形成し、ビルドの信頼を構築し、相互に支援を得るための場所として最初に作成されました。  この記事は活発コミュニティに拡張されていますが、それに焦点を絞っていますが、このような会話によって、多くのプラットフォーム、デバイス、および企業にわたる mixed reality の範囲がカバーされています。|
 |**スタック オーバーフロー**|[MR の質問](https://stackoverflow.com/questions/tagged/windows-mixed-reality)||
 |**Reddit WMR ヘッドセット**|[WMR subreddit](https://www.reddit.com/r/WindowsMR/)|         |
 |**Reddit HoloLens**|[HoloLens subreddit](https://www.reddit.com/r/HoloLens/)|         |
