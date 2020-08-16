@@ -370,7 +370,7 @@ Microsoft HoloLens など、mixed reality を使用した開発に関する最�
 
 4. 拡張機能がインストールされたら、VS Code を閉じてから開き直します。
 
-5. さらに VS Code 開いたら、[ **View** > **Integrated terminal**] に移動します。
+5. さらに VS Code 開いたら、[**表示** > **統合ターミナル**] に移動します。
 
 6. 次に、 **Cookiecutter**をインストールします。 ターミナルで、次の bash コマンドを実行します。
 
