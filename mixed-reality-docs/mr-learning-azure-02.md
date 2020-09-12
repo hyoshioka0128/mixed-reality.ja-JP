@@ -58,7 +58,7 @@ Azure ストレージ サービスを利用するには、Azure ストレージ 
 > [!TIP]
 > Unity エディター内からテストする場合は、次のローカル エミュレーターを使用できます。
 
-> * Windows 10 では [Azure ストレージ エミュレーターを使用できます](https://docs.microsoft.com/azure/storage/common/storage-use-emulator)
+> * Windows 10 では [Azure Storage Emulator を使用できます](https://docs.microsoft.com/azure/storage/common/storage-use-emulator)
 > * MacOS、Linux では、Docker 用の [Azurite Docker Image](https://hub.docker.com/_/microsoft-azure-storage-azurite) を使用できます。
 
 ## <a name="preparing-the-scene"></a>シーンの準備
@@ -67,7 +67,7 @@ Azure ストレージ サービスを利用するには、Azure ストレージ 
 
 ![mr-learning-azure](images/mr-learning-azure/tutorial2-section4-step1-1.png)
 
-[インスペクター] ウィンドウから、**DataManager (script)** コンポーネントは **Azure Storage** 関連のすべての設定が保持される場所であることがわかります。 関連する設定はすべて、既に設定されているので、"*接続文字列*" フィールドを、Azure portal から取得できるものに置き換えるだけで済みます。 ローカルの Azure ストレージ エミュレーター ソリューションを使用している場合は、既に指定されている "*接続文字列*" を保持できます。
+[インスペクター] ウィンドウから、**DataManager (script)** コンポーネントは **Azure Storage** 関連のすべての設定が保持される場所であることがわかります。 関連する設定はすべて、既に設定されているので、"*接続文字列*" フィールドを、Azure portal から取得できるものに置き換えるだけで済みます。 ローカルの Azure Storage Emulator ソリューションを使用している場合は、既に指定されている "*接続文字列*" を保持できます。
 
 **DataManager (スクリプト)** は、**Table Storage** および **Blob Storage** とやりとりすることが役割であり、UI コンポーネント上の他のコントローラー スクリプトによって利用されます。
 
